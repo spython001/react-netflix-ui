@@ -1,3 +1,4 @@
+
 import { Notifications, Search } from '@mui/icons-material'
 import './navbar.scss'
 
