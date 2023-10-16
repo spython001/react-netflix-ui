@@ -9,6 +9,9 @@ export default function Home() {
       <Navbar/> 
       <Featured/>
       <List/>
+      <List/>
+      <List/>
+      <List/>
     </div>
   )
 }
