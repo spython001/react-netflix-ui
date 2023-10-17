@@ -17,6 +17,7 @@ export default function Register() {
 
   
   //NOT USING THE USE-EFFECT YET SINCE THE CODE WORKS LIKE THAT
+  
   /*useEffect(() => {
     // Check if email is not empty
     if (email) {
