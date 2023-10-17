@@ -73,6 +73,10 @@
                 border: none;
                 padding: 0px 10px;
                 background-color: #fff;
+
+                &:focus{
+                    outline: none;
+                }
             }
             .registerButton{
                 flex: 3;
