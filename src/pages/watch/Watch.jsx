@@ -11,7 +11,7 @@ export default function Watch() {
         <video 
           className='video' 
           autoPlay 
-          progress 
+          //progress 
           controls 
           src='/assets/netVid3.mp4'
         />
